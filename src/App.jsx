@@ -17,7 +17,7 @@ function App() {
           </a>
         </p>
         <p>
-          If you want to contact me, you can do it through my email: <a href="mailto:design.devanshu@hmail.com">design.devanshu@hmail.com</a>
+          If you want to contact me, you can do it through my email: <a href="mailto:design.devanshu@gmail.com">design.devanshu@gmail.com</a>
         </p>
         <p>
           or you can find me on{" "}
