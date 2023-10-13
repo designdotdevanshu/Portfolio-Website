@@ -12,7 +12,7 @@ function App() {
         </h1>
         <p>
           I am Devanshu, a Frontend Developer. I am currently working on this site and it will be live soon. Meanwhile you can check out my{" "}
-          <a href="https://github.com/designdotdevanshu" target="_blank" rel="noreferrer">
+          <a href="https://github.com/designdotdevanshu/" target="_blank" rel="noreferrer">
             Github
           </a>
         </p>
@@ -21,7 +21,7 @@ function App() {
         </p>
         <p>
           or you can find me on{" "}
-          <a href="https://www.linkedin.com/in/devanshu-singh-2b1b3b1b0/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/designdotdevanshu/" target="_blank" rel="noreferrer">
             LinkedIn
           </a>{" "}
           and{" "}
