@@ -40,9 +40,7 @@ function App() {
           <h2 className="countdown-time">
             {days < 10 ? `0${days}` : days} : {hours < 10 ? `0${hours}` : hours} : {minutes < 10 ? `0${minutes}` : minutes} : {seconds < 10 ? `0${seconds}` : seconds}
           </h2>
-          <p className="countdown-label">
-            Days : Hours : Minutes : Seconds
-          </p>
+          <p className="countdown-label">Days : Hours : Minutes : Seconds</p>
         </div>
         <p>
           I am Devanshu, a Frontend Developer. I am currently working on this site and it will be live soon. Meanwhile you can check out my{" "}
@@ -57,6 +55,10 @@ function App() {
           or you can find me on{" "}
           <a href="https://www.linkedin.com/in/designdotdevanshu/" target="_blank" rel="noreferrer">
             LinkedIn
+          </a>
+          ,{" "}
+          <a href="https://twitter.com/design_devanshu/" target="_blank" rel="noreferrer">
+            Twitter
           </a>{" "}
           and{" "}
           <a href="https://instagram.com/designdotdevanshu/" target="_blank" rel="noreferrer">
