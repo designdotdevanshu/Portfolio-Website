@@ -67,3 +67,68 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1em 0;
+}
+
+p {
+  font-size: 1em;
+  margin: 1em 0;
+}
+
+a {
+  color: #646cff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: #646cff;
+  border: none;
+  border-radius: 0.5em;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+}
+
+button:hover {
+  background-color: #4c3aff;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 0.5em;
+  font-size: 1em;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+}
+
+input:focus {
+  outline: none;
+}
