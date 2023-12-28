@@ -35,15 +35,16 @@ function App() {
             🚧
           </span>
         </h1>
-        <h2>It will be live in</h2>
-        <div className="countdown">
-          <h2 className="countdown-time">
-            {days < 10 ? `0${days}` : days} : {hours < 10 ? `0${hours}` : hours} : {minutes < 10 ? `0${minutes}` : minutes} : {seconds < 10 ? `0${seconds}` : seconds}
-          </h2>
-          <p className="countdown-label">Days : Hours : Minutes : Seconds</p>
-        </div>
         <p>
-          I am Devanshu, a Frontend Developer. I am currently working on this site and it will be live soon. Meanwhile you can check out my{" "}
+          I am Devanshu, a Frontend Developer. I am currently working on this site and
+          <h2>It will be live in</h2>
+          <div className="countdown">
+            <h2 className="countdown-time">
+              {days < 10 ? `0${days}` : days} : {hours < 10 ? `0${hours}` : hours} : {minutes < 10 ? `0${minutes}` : minutes} : {seconds < 10 ? `0${seconds}` : seconds}
+            </h2>
+            <p className="countdown-label">Days : Hours : Minutes : Seconds</p>
+          </div>
+          Meanwhile you can check out my{" "}
           <a href="https://github.com/designdotdevanshu/" target="_blank" rel="noreferrer">
             Github
           </a>
