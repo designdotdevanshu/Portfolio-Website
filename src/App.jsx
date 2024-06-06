@@ -8,7 +8,7 @@ function App() {
   const [minutes, setMinutes] = useState(0);
   const [seconds, setSeconds] = useState(0);
 
-  const deadline = "May, 01, 2024";
+  const deadline = "July, 01, 2024";
 
   const calculateTimeLeft = () => {
     const difference = Date.parse(deadline) - Date.now();
